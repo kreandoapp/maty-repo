@@ -1,4 +1,4 @@
-# maty-repo
+# Repositorio de Matias Diaz
 Repasando conocimientos
 
 ## descripcion
